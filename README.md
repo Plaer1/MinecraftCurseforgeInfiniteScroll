@@ -8,7 +8,7 @@ To use this script, you will need a user script manager extension such as [Tampe
 
 Once you have a user script manager installed, you can install the script by following these steps:
 
-1. Click [here](https://github.com/USERNAME/REPO/raw/main/SCRIPT.user.js) to open the script file.
+1. Click [![Install Button](https://github.com/Plaer1/MinecraftCurseforgeInfiniteScroll/blob/f84e5d0f7f94c7c266be4e531806ed35de10bdc9/here.gif)](https://github.com/Plaer1/MinecraftCurseforgeInfiniteScroll/blob/0d653f72b00172caae5ee6067e75b7c9258fba4c/InfiniteScrollMinecraftCurseforge.user.js) to open the script file.
 2. Your user script manager should prompt you to install the script.
 3. Follow the prompts to complete the installation.
 
